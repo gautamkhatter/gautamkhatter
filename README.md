@@ -1,4 +1,4 @@
-### namaste 🙏
+<pre>namaste 🙏</pre>
 
 
 - 🔭 I’m currently working on my React and DSA skills.
